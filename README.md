@@ -1,16 +1,7 @@
-# native_code
+#Flutter Platform Channel
 
-A new Flutter project.
+This application is an example which will showcase the MethodChannel method used to have a communication between Dart code and Native Android and iOS code.
+In this example we will be showing an Alert Dialog Box in our Flutter app which will be called in natively in the respected platform. We will also pass some arguments to native code.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
